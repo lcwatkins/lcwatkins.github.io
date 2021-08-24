@@ -1,0 +1,12 @@
+I"I<html>
+    <body>
+        <div class="container">
+            <div class="blurb">
+                <p> Data Scientist currently in Chemistry, moving to business. </p>
+
+                <p> <a href="/about">Read more about my life...</a></p>
+            </div><!-- /.blurb -->
+        </div><!-- /.container -->
+    </body>
+</html>
+:ET

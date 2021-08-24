@@ -1,10 +1,4 @@
----
-title: Home
-layout: default
-order: 1
----
-
-<html>
+I"”<html>
     <body>
         <div class="container">
             <div class="tagline">
@@ -16,3 +10,4 @@ order: 1
         </div><!-- /.container -->
     </body>
 </html>
+:ET

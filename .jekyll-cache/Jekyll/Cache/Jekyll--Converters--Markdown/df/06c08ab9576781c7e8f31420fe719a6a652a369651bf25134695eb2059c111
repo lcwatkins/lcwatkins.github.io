@@ -1,0 +1,15 @@
+I"Á<html>
+    <body>
+        <div class="container">
+            <div class="blurb">
+                <p> Data Scientist currently in Chemistry, moving to business.. <a href="/about">Read more about my life...</a></p>
+            </div><!-- /.blurb -->
+        </div><!-- /.container -->
+        <footer>
+            <ul>
+                <li><a href="https://github.com/lcwatkins">github</a></li>
+            </ul>
+        </footer>
+    </body>
+</html>
+:ET
