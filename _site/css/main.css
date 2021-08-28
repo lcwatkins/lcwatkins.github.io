@@ -77,8 +77,18 @@ ul.posts li {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
 }
-.img-container {
+.img-container-1 {
   float: left;
+  width: 32.5%; /* three containers (use 25% for four, and 50% for two, etc) */
+  padding: 2px; /* if you want space between the images */
+}
+.img-container-2 {
+  float: left;
+  width: 32.5%; /* three containers (use 25% for four, and 50% for two, etc) */
+  padding: 2px; /* if you want space between the images */
+}
+.img-container-3 {
+  float: right;
   width: 32.5%; /* three containers (use 25% for four, and 50% for two, etc) */
   padding: 2px; /* if you want space between the images */
 }
@@ -104,11 +114,15 @@ ul.posts li {
     border-right: 1px solid #d5d5d5;
 }
 .left {
-    width: 40%;
+    width: 30%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
 }
 .right {
-    width: 50%;
-    margin-left: 10px;
+    width: 60%;
+    margin-right: 10px;
+    margin-left: 20px;
 }
 .row {
     margin-bottom:30px;
@@ -154,6 +168,11 @@ p.cv {
     margin: 0px;
 }
 
+li.cv {
+    list-style: none;
+    font-size:1.0em ;
+    margin-bottom: 8px;
+}
 
 
 

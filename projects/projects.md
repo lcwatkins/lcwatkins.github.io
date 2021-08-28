@@ -83,11 +83,6 @@ order: 3
 
             <!-- Mutant -->
             <div class="row equal">
-                <div class="column left">
-                    <div class="img" >
-                        <img src="/assets/m2-mutant-small.png" alt="M2" style="max-width:100%">
-                    </div>
-                </div><!-- /.column -->
                 <div class="column right">
                     <h3> Multiscale Simulations of Proton Transport in M2 Mutant </h3>
                     <p> In this work, we use extensive Multiscale Reactive Molecular
@@ -101,17 +96,10 @@ order: 3
                     key role of water.
                     </p>
                 </div><!-- /.column -->
-            </div><!-- /.row -->
-
-            <!-- De novo designed -->
-            <div class="row">
                 <div class="column left">
                     <div class="img" >
+                        <img src="/assets/m2-mutant-small.png" alt="M2" style="max-width:100%">
                     </div>
-                </div><!-- /.column -->
-                <div class="column right">
-                    <h3> <italic> De novo </italic> Design of Channels </h3>
-                    <p> Description </p>
                 </div><!-- /.column -->
             </div><!-- /.row -->
 

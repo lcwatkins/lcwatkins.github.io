@@ -10,13 +10,13 @@ order: 2
         <div class="container">
             <div class="extended">
                 <div class="clearfix">
-                  <div class="img-container">
+                  <div class="img-container-1">
                   <img src="/assets/pic1.jpg" alt="Italy" style="width:100%">
                   </div>
-                  <div class="img-container">
+                  <div class="img-container-2">
                   <img src="/assets/pic2.png" alt="Forest" style="width:100%">
                   </div>
-                  <div class="img-container">
+                  <div class="img-container-3">
                   <img src="/assets/pic3.jpg" alt="Mountains" style="width:100%">
                   </div>
                 </div>
@@ -32,11 +32,11 @@ order: 2
                 <p> I am graduating in December with a Ph.D. in Physical Chemistry. My work primarily 
                 focuses on using computer simulations and statistics to study how protons (hydrogen ions) move through the M2 channel in the
                 influenza A virus in order to help guide drug-design efforts. I have also done some really cool work using machine learning
-                to develop new methods for running simulations of proteins. <a href="/about/projects.html">See more here.</a> </p>
+                to develop new methods for running simulations of proteins. <a href="/projects/projects.html">See more here.</a> </p>
 
                 <p> Outside of data science, I am passionate about being involved in all the communities I find myself in, whether that's
                 co-chairing a committee on department culture or volunteering at a nearby nursing home. I love running and reading, and 
-                I cycle through other hobbies like knitting, playing the piano, and making cocktails. I am always learning something new. </p>
+                cycling through other hobbies. I am always learning something new! </p>
 
                 <p> <strong> I am now seeking a Data Science job in Chicago! </strong> I am excited to continue extracting
                 insight from data (messy and all) in the business world. 
