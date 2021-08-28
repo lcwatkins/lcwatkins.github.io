@@ -11,6 +11,10 @@ nav ul, footer ul {
     text-align:center;
     margin-bottom: 40px;
 }
+li {
+    font-size: 0.9em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
@@ -94,7 +98,10 @@ ul.posts li {
 }
 .column {
     float: left;
-    padding: 10px;
+    padding: 1%;
+}
+.sep {
+    border-right: 1px solid #d5d5d5;
 }
 .left {
     width: 40%;
@@ -106,6 +113,9 @@ ul.posts li {
 .row {
     margin-bottom:30px;
 }
+.narrow {
+    margin-bottom:0px;
+}
 .row:after {
     content: "";
     display: table;
@@ -116,5 +126,37 @@ ul.posts li {
     display: -webkit-flex;
     flex-wrap: wrap;
 }
+.cv-left {
+    width: 20%;
+}
+.cv-right {
+    width: 75%;
+}
+.cv-section {
+    text-align: right;
+    font-family: 'Trebuchet MS', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.4em;
+    padding: 20px;
+    padding-top: 10px;
+}
+.cv-entry {
+    padding: 10px;
+}
+
+p.cv {
+    text-align: left;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.0em;
+    line-height: 1.4em;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+
+
 
 
