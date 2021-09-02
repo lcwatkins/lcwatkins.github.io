@@ -7,7 +7,21 @@ order: 4
 <html>
     <body>
         <div class="container">
-            <h2> CV </h2>
+            <h2> Curriculum Vitae </h2>
+
+            <div class="row narrow">
+                <div >
+                    <ul class="cv-header">
+                         <li class="cv-header"><a href="mailto:lcwatkins@uchicago.edu" class="cv"> Email</a> </li>
+                         <li class="cv-header"> | </li>
+                         <li class="cv-header"><a href="/assets/resume.pdf" class="cv"> Resume</a></li>
+                         <li class="cv-header"> | </li>
+                         <li class="cv-header"><a href="https://www.linkedin.com/in/lcwatkins" class="cv">LinkedIn</a> </li>
+                         <li class="cv-header"> | </li>
+                         <li class="cv-header"><a href="https://github.com/lcwatkins" class="cv">GitHub</a> </li>
+                     </ul> 
+                </div>
+            </div>
 
             <div class="row">
                 <div class="column cv-left">
@@ -22,7 +36,8 @@ order: 4
                             <p class="cv"> <b> University of Chicago </b> 
                             <span style="float:right;"> <i> December 2021 </i> </span> </p>
                             <p class="cv"> <i> Ph.D. Physical Chemistry (Computational) </i> </p>
-                            <li> Department of Energy Computational Sciences Graduate Fellowship </li>
+                            <li> Fellowship: Department of Energy Computational Sciences Graduate Fellowship. 
+                            (Prestigious national fellowship for top computational graduate students, awarded to ~2% of applicants.) </li>
                             <li> Advisor: Gregory Voth </li>
 
                         </div><!-- /.cv-entry -->
@@ -84,7 +99,8 @@ order: 4
                             <p class="cv"> <i> Visiting Research Assistant </i>
                             <span style="float:right;"> <i> Fall 2017 </i> </span>  </p>
                             <li> Used DBSCAN clustering and SVM classification to develop
-                            extension to Accelerated Molecular Dynamics methods </li>
+                            extension to Accelerated Molecular Dynamics methods, written
+                            as a Python module using scikit-learn </li>
 
                         </div><!-- /.cv-entry -->
                     </div><!-- /.row -->
@@ -151,7 +167,7 @@ order: 4
                 <div class="column cv-right">
                     <div class="row narrow">
                         <div class="cv-entry">
-                            <li class="cv"> <b> Programming: </b> Python
+                            <li class="cv"> <b> Programming: </b> Python 6+ years
                             (NumPy, Pandas, Matplotlib, Scikit-learn, Scipy), C/C++, Bash,
                             MPI </li>
                             <li class="cv"> <b> Data analysis: </b> Machine
@@ -182,7 +198,7 @@ order: 4
                             M. J., DeGrado, W. F., Voth, G. A. <i> Proton-Induced
                             Conformational and Hydration Dynamics in the Influenza A M2
                             Channel. </i> J. Am. Chem. Soc. (2019)
-                            <a href="https://pubs.acs.org/doi/10.1021/jacs.9b05136"> doi:10.1021/jacs.9b05136 </a> 
+                            <a class="link-inline" href="https://pubs.acs.org/doi/10.1021/jacs.9b05136"> DOI:10.1021/jacs.9b05136 </a> 
                              </p>
                         </div><!-- /.cv-entry -->
                     </div><!-- /.row -->
@@ -192,14 +208,16 @@ order: 4
                             <i> Influenza A M2 Inhibitor Binding Understood through
                             Mechanisms of Excess Proton Stabilization and Channel Dynamics
                             </i> J. Am. Chem. Soc. (2020)
-                            <a href="https://pubs.acs.org/doi/10.1021/jacs.0c06419"> doi:10.1021/jacs.0c06419 </a> 
+                            <a class="link-inline" href="https://pubs.acs.org/doi/10.1021/jacs.0c06419"> DOI:10.1021/jacs.0c06419 </a> 
                              </p>
                         </div><!-- /.cv-entry -->
                     </div><!-- /.row -->
                     <div class="row narrow">
                         <div class="cv-entry">
                             <p class="cv"> <b> Watkins, L.C.,</b> DeGrado, W. F., Voth, G. A.  
-                            <i> Multiscale Simulations of Proton Transport in M2 Mutant
+                            <i> Multiscale Simulation of an Influenza A M2 Channel Mutant
+                            Reveals Key Features of Its Markedly Different Proton
+                            Transport Behavior.
                             </i> Submitted to J. Am. Chem. Soc. (2021)
                              </p>
                         </div><!-- /.cv-entry -->

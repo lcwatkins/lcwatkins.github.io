@@ -21,7 +21,7 @@ order: 3
                     used clustering and classification techniques to begin development
                     of Hyperdynamics for proteins.
                      </p>
-                    <p> <a href="">Learn more and see a walkthrough in my Jupyter Notebook. </a> </p>
+                    <p> <a class="link-inline" href="https://github.com/lcwatkins/machine-learning-hyperdynamics/blob/f0cd424e2b88fbe18ffca2233fe40538109ff9bb/example_walkthrough.ipynb">Learn more and see a walkthrough in my Jupyter Notebook. </a> </p>
                 </div><!-- /.column -->
                 <div class="column left">
                     <div class="img" >
@@ -50,7 +50,7 @@ order: 3
                     position, and demonstrated how the hydrated excess proton
                     stronly influences the water network throughout the
                     channel. </p>
-                    <p> <a href="https://pubs.acs.org/doi/10.1021/jacs.9b05136"> Published here. </a> </p>
+                    <p> <a class="link-inline" href="https://pubs.acs.org/doi/10.1021/jacs.9b05136"> Published here. </a> </p>
                 </div><!-- /.column -->
             </div><!-- /.row -->
 
@@ -77,14 +77,16 @@ order: 3
                     more dynamic picture of drug inhibition, with critical
                     implications for future drug design.
                     </p>
-                    <p> <a href="https://pubs.acs.org/doi/10.1021/jacs.0c06419"> Published here. </a> </p>
+                    <p> <a class="link-inline" href="https://pubs.acs.org/doi/10.1021/jacs.0c06419"> Published here. </a> </p>
                 </div><!-- /.column -->
             </div><!-- /.row -->
 
             <!-- Mutant -->
             <div class="row equal">
                 <div class="column right">
-                    <h3> Multiscale Simulations of Proton Transport in M2 Mutant </h3>
+                    <h3> Multiscale Simulation of an Influenza A M2 Channel Mutant
+                    Reveals Key Features of Its Markedly Different Proton
+                    Transport Behavior </h3>
                     <p> In this work, we use extensive Multiscale Reactive Molecular
                     Dynamics (MS-RMD) and Quantum Mechanics/Molecular Mechanics (QM/MM)
                     simulations to model proton movement through a prevalent mutant of the
@@ -95,6 +97,7 @@ order: 3
                     mutation alters the proton transport mechanism and show the
                     key role of water.
                     </p>
+                    <p> <i> Submitted for publication. </i> </p>
                 </div><!-- /.column -->
                 <div class="column left">
                     <div class="img" >
