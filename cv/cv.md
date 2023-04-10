@@ -12,13 +12,13 @@ order: 4
             <div class="row narrow">
                 <div >
                     <ul class="cv-header">
-                         <li class="cv-header"><a href="mailto:lcwatkins@uchicago.edu" class="cv"> Email</a> </li>
+                         <li class="cv-header"><a href="mailto:lcwatkins21@gmail.com" class="cv"> Email</a> </li>
                          <li class="cv-header"> | </li>
-                         <li class="cv-header"><a href="/assets/resume.pdf" class="cv"> Resume</a></li>
+                         <li class="cv-header"><a href="/assets/resume.pdf" class="cv"> Resume</a></li> 
                          <li class="cv-header"> | </li>
                          <li class="cv-header"><a href="https://www.linkedin.com/in/lcwatkins" class="cv">LinkedIn</a> </li>
-                         <li class="cv-header"> | </li>
-                         <li class="cv-header"><a href="https://github.com/lcwatkins" class="cv">GitHub</a> </li>
+                         <!-- <li class="cv-header"> | </li>
+                         <li class="cv-header"><a href="https://github.com/lcwatkins" class="cv">GitHub</a> </li> -->
                      </ul> 
                 </div>
             </div>
@@ -65,17 +65,39 @@ order: 4
                 <div class="column cv-right">
                     <div class="row narrow">
                         <div class="cv-entry">
+                            <p class="cv"> <b> Kemper Insurance </b> </p>
+                            <p class="cv"> <i> Data Scientist II </i>
+                            <span style="float:right;"> <i> 2022-present </i> </span>  </p>
+                            <li> Builds Natural Langauage Processing (NLP) models in
+                            TensorFlow to predicte car accident characteristics based on
+                            free-form descriptions, as part of first team in the
+                            department to develop and execute NLP capabilties </li>
+                            <li> Develops generalized linear models (GLM) auto insurance
+                            pricing models under strict regulatory standards, additionally expands
+                            these models for internal use to better understand
+                            customer segmentations </li>
+                            <li> Contributes to team code base, including a Python class
+                            to automate the creation of excel spreadsheets with hundreds
+                            of tabs and complex figures </li>
+
+                        </div><!-- /.cv-entry -->
+                    </div><!-- /.row -->
+
+                    <div class="row narrow">
+                        <div class="cv-entry">
                             <p class="cv"> <b> University of Chicago, Department of
                             Chemistry </b> </p>
                             <p class="cv"> <i> Graduate Researcher </i>
-                            <span style="float:right;"> <i> Fall 2015-present </i> </span>  </p>
-                            <li> Researches mechanisms of proton transport in influenza A
+                            <span style="float:right;"> <i> Fall 2015-2021 </i> </span>  </p>
+                            <li> Researched mechanism of proton transport in influenza A
                             M2 to provide insight for drug-design efforts </li>
+                            <li> Designed and managed independent research projects,
+                            communicated results to non-technical experimentalists </li>
                             <li> Exploratory analysis of ~1 TB simulation data, developed
                             new approach for studying protein changes correlated with
                             proton position, resulting in two publications in top
                             chemistry journal </li>
-                            <li> Writes and assists in submission of competitve NIH grants
+                            <li> Wrote and assisted in submission of competitve NIH grants
                             worth ~$1 million </li>
 
                         </div><!-- /.cv-entry -->
@@ -167,12 +189,11 @@ order: 4
                 <div class="column cv-right">
                     <div class="row narrow">
                         <div class="cv-entry">
-                            <li class="cv"> <b> Programming: </b> Python 6+ years
-                            (NumPy, Pandas, Matplotlib, Scikit-learn, Scipy), C/C++, Bash,
+                            <li class="cv"> <b> Programming: </b> Python 8+ years
+                            (NumPy, Pandas, TensorFlow, H2O, Matplotlib, Scikit-learn), C/C++, Bash,
                             MPI </li>
-                            <li class="cv"> <b> Data analysis: </b> Machine
-                            learning techniques (linear regression, SVM, clustering),
-                            enhanced sampling methods </li>
+                            <li class="cv"> <b> Machine Learning: </b> 
+                            GLMs, neural networks, NLP, SVM, clustering </li>
                             <li class="cv"> <b> Coursework: </b> Machine
                             Learning, Algorithms, Advanced Statistical Mechanics, High
                             Performance Computing, Numerical Analysis for Statistics and
@@ -194,11 +215,23 @@ order: 4
                 <div class="column cv-right">
                     <div class="row narrow">
                         <div class="cv-entry">
-                            <p class="cv"> <b> Watkins, L.C.,</b> Liang, R., Swanson, J.
-                            M. J., DeGrado, W. F., Voth, G. A. <i> Proton-Induced
-                            Conformational and Hydration Dynamics in the Influenza A M2
-                            Channel. </i> J. Am. Chem. Soc. (2019)
-                            <a class="link-inline" href="https://pubs.acs.org/doi/10.1021/jacs.9b05136"> DOI:10.1021/jacs.9b05136 </a> 
+                            <p class="cv"> Kratochvil, H.T., <b> Watkins, L.C.,</b>
+                            Mravic, M.,  
+                            <i> et al. Transient Water Wires Mediate Selective Proton
+                            Transport in Designed Channel Proteins.
+                            </i> Nature Chemistry, in press (2023)
+                            <a class="link-inline"
+                            href="https://www.biorxiv.org/content/10.1101/2022.03.28.485852v2.full"
+                            > biorxiv DOI:10.1101/2022.03.28.485852 </a> 
+                             </p>
+                        </div><!-- /.cv-entry -->
+                        <div class="cv-entry">
+                            <p class="cv"> <b> Watkins, L.C.,</b> DeGrado, W. F., Voth, G. A.  
+                            <i> Multiscale Simulation of an Influenza A M2 Channel Mutant
+                            Reveals Key Features of Its Markedly Different Proton
+                            Transport Behavior.
+                            </i> J. Am. Chem. Soc. (2022)
+                            <a class="link-inline" href="https://pubs.acs.org/doi/10.1021/jacs.1c09281"> DOI:10.1021/jacs.1c09281 </a> 
                              </p>
                         </div><!-- /.cv-entry -->
                     </div><!-- /.row -->
@@ -214,11 +247,11 @@ order: 4
                     </div><!-- /.row -->
                     <div class="row narrow">
                         <div class="cv-entry">
-                            <p class="cv"> <b> Watkins, L.C.,</b> DeGrado, W. F., Voth, G. A.  
-                            <i> Multiscale Simulation of an Influenza A M2 Channel Mutant
-                            Reveals Key Features of Its Markedly Different Proton
-                            Transport Behavior.
-                            </i> Submitted to J. Am. Chem. Soc. (2021)
+                            <p class="cv"> <b> Watkins, L.C.,</b> Liang, R., Swanson, J.
+                            M. J., DeGrado, W. F., Voth, G. A. <i> Proton-Induced
+                            Conformational and Hydration Dynamics in the Influenza A M2
+                            Channel. </i> J. Am. Chem. Soc. (2019)
+                            <a class="link-inline" href="https://pubs.acs.org/doi/10.1021/jacs.9b05136"> DOI:10.1021/jacs.9b05136 </a> 
                              </p>
                         </div><!-- /.cv-entry -->
                     </div><!-- /.row -->

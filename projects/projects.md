@@ -97,7 +97,7 @@ order: 3
                     mutation alters the proton transport mechanism and show the
                     key role of water.
                     </p>
-                    <p> <i> Submitted for publication. </i> </p>
+                    <p> <a class="link-inline" href="https://pubs.acs.org/doi/10.1021/jacs.1c09281"> Published here. </a> </p>
                 </div><!-- /.column -->
                 <div class="column left">
                     <div class="img" >
