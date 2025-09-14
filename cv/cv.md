@@ -14,7 +14,7 @@ order: 4
                     <ul class="cv-header">
                          <li class="cv-header"><a href="mailto:lcwatkins21@gmail.com" class="cv"> Email</a> </li>
                          <li class="cv-header"> | </li>
-                         <li class="cv-header"><a href="/assets/resume.pdf" class="cv"> Resume</a></li> 
+                         <li class="cv-header"><a href="/assets/resume25.pdf" class="cv"> Resume</a></li> 
                          <li class="cv-header"> | </li>
                          <li class="cv-header"><a href="https://www.linkedin.com/in/lcwatkins" class="cv">LinkedIn</a> </li>
                          <!-- <li class="cv-header"> | </li>
