@@ -30,13 +30,32 @@ order: 3
                 </div><!-- /.column -->
             </div><!-- /.row -->
 
-            <!-- Paper 1 -->
+            <!-- de novo project -->
             <div class="row">
                 <div class="column left">
                     <div class="img" >
-                        <img src="/assets/m2-1-small.png" alt="M2" style="max-width:100%">
+                        <img src="/assets/denovopmf.jpg" alt="PMF" style="max-width:110%">
                     </div>
                 </div><!-- /.column -->
+                <div class="column right">
+                    <h3> Proton Transport in Designed Protein Channels </h3>
+                    <p> 
+                    Selective proton transport through proteins is essential for forming
+                    and utilizing proton gradients in cells. Protons are conducted along
+                    hydrogen-bonded “wires” of water molecules and polar sidechains,
+                    which, somewhat surprisingly, are often interrupted by dry apolar
+                    stretches in the conduction pathways inferred from static protein
+                    structures. Here, we used molecular dynamic simulations to aid the design
+                    of minimal transmembrane channels capable of conducting protons with 
+                    rates similar to viral proton channels,
+                    informing future engineering of proton-conducting materials.
+                     </p>
+                </div><!-- /.column -->
+            </div><!-- /.row -->
+
+
+            <!-- Paper 1 -->
+            <div class="row">
                 <div class="column right">
                     <h3> Proton-Induced Conformational and Hydration Dynamics in
                     the Influenza A M2 Channel </h3>
@@ -51,6 +70,11 @@ order: 3
                     stronly influences the water network throughout the
                     channel. </p>
                     <p> <a class="link-inline" href="https://pubs.acs.org/doi/10.1021/jacs.9b05136"> Published here. </a> </p>
+                </div><!-- /.column -->
+                <div class="column left">
+                    <div class="img" >
+                        <img src="/assets/m2-1-small.png" alt="M2" style="max-width:100%">
+                    </div>
                 </div><!-- /.column -->
             </div><!-- /.row -->
 

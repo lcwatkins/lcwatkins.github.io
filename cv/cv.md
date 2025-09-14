@@ -66,19 +66,35 @@ order: 4
                     <div class="row narrow">
                         <div class="cv-entry">
                             <p class="cv"> <b> Kemper Insurance </b> </p>
+                            <p class="cv"> <i> Senior Data Scientist </i>
+                            <span style="float:right;"> <i> Fall 2024-present </i> </span>  </p>
+                            <li> Led small team to develop generalized linear models (GLM)
+                            claim frequency models and implement a tool to explain the
+                            change in frequency over time; regularly presented updates,
+                            results, and insights to key business partners; created
+                            modular code framework and maintained pipeline for data
+                            pulling, processing, and scoring. </li>
+                            <li> Managed one junior data scientist: maintained weekly
+                            check-ins, directed priorities, oversaw project progress </li>
+                            <li> Wrote SQL query to pull a historical snapshot view of
+                            claims attributes from previously unused database to use for
+                            building a claim severity model. Engineered merge logic to
+                            increase policy match rate to 99% </li>
                             <p class="cv"> <i> Data Scientist II </i>
-                            <span style="float:right;"> <i> 2022-present </i> </span>  </p>
-                            <li> Builds Natural Langauage Processing (NLP) models in
-                            TensorFlow to predicte car accident characteristics based on
-                            free-form descriptions, as part of first team in the
-                            department to develop and execute NLP capabilties </li>
-                            <li> Develops generalized linear models (GLM) auto insurance
-                            pricing models under strict regulatory standards, additionally expands
-                            these models for internal use to better understand
-                            customer segmentations </li>
-                            <li> Contributes to team code base, including a Python class
-                            to automate the creation of excel spreadsheets with hundreds
-                            of tabs and complex figures </li>
+                            <span style="float:right;"> <i> 2022-2024 </i> </span>  </p>
+                            <li> Built natural language processing (NLP) models in
+                            TensorFlow to predict car accident characteristics based on
+                            free-form descriptions as part of first team in the department
+                            to develop NLP capabilities, including a model to predict
+                            claims likely to have costs available to recoup from
+                            third-parties: est. annual saving benefit of $4.1 M </li>
+                            <li> Developed GLM auto insurance pricing models in effort to
+                            revamp pricing for Kemper’s primary product from scratch, then
+                            expanded these models for internal use to identify less
+                            profitable customer segmentations </li>
+                            <li> Contributed a Python class to team code base to automate
+                            the creation of excel spreadsheets with hundreds of tabs and
+                            figures, saving hours of time </li>
 
                         </div><!-- /.cv-entry -->
                     </div><!-- /.row -->
@@ -189,7 +205,7 @@ order: 4
                 <div class="column cv-right">
                     <div class="row narrow">
                         <div class="cv-entry">
-                            <li class="cv"> <b> Programming: </b> Python 8+ years
+                            <li class="cv"> <b> Programming: </b> Python 10+ years
                             (NumPy, Pandas, TensorFlow, H2O, Matplotlib, Scikit-learn), C/C++, Bash,
                             MPI </li>
                             <li class="cv"> <b> Machine Learning: </b> 
